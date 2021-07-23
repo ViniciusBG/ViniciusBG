@@ -28,6 +28,7 @@
   
 ### ⏭️Next Steps?
 - Grhaps - *networks and databases*
+- Kubernetes
 
 ### 📫 Where to find me
 - [viniciusbastosgomes@gmail.com](mailto:viniciusbastosgomes@gmail.com) 🐤
