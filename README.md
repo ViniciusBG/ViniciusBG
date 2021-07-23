@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2 align="center">Hello there! My name is Vinicius! 👋🤓</h2>
+<p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
+I'm also currently doing my Bsc in IT while working on my company and other projects.
+I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
+When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
 
-<!--
-**ViniciusBG/ViniciusBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<em><p align="center"><a href="https://stephenajulu.com">My Personal Website and Portfolio Built with Jekyll, Hosted on Github, DNS Cloudflare</a></p></em>
+<p>
+  
+  <a href="https://blog.stephenajulu.com/"><img width="307" align='right' src="https://github.com/stephenajulu/stephenajulu/blob/master/Screenshot_2020-07-13%20Ajulu's%20Blog.jpg"></a>
+</p>
 
-Here are some ideas to get you started:
+### 💼 Where am currently working at/as
+- [Ambev Tech - Data Scientist](https://ambevtech.com.br/) 💼 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What am currently working on
+- [GreeetinCard](https://greeetincard.crd.co)  🚀
+- Tech6  🚀 *coming soon*
+- [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
+- BioEmergency & Biomme  🚀 *coming soon*
+- Quevant  🚀 *coming very soon* 🚀
+- TechSavant  🚀 *coming very soon* 🚀
+- Lofied  🚀 *coming soon*
+
+### 📖 What am currently learning
+- Full Stack Web Development  * Progress 31% *
+- AI & Machine Learning  * Progress 13% *
+- Cybersecurity and Ethical Hacking  * Progress 72% *
+
+### 📫 Where to find me
+- [Mail](viniciusbastosgomes@gmail.com) 🐤
+- [LinkedIn](https://www.linkedin.com/in/viniciusbastosgomes/) 👨💼
+
+
+<h4 align="center">From <a href="https://github.com/viniciusbg/viniciusbg"> Stephen Ajulu's Github Profile Readme MD</a></h4>
