@@ -5,9 +5,18 @@
 ### 💼 Where am currently working at/as
 - [Ambev Tech - Data Scientist](https://ambevtech.com.br/) 💼 
 
-### 💻 What am currently working on
-- [GreeetinCard](https://greeetincard.crd.co)  🚀
-- 
+### 💻 Most familiar tools, languages and frameworks
+- Languages : Python, SQL
+-  WebScrapping: Selenium, BeatifulSoup
+-  Data Processing : Pandas, Numpy, Scipy, NLTK
+-  Modelling/Machine Learning : Scikit-learn, XGBoost, Statsmodels
+-  Deep learning: Keras, Tensorflow
+-  NLP: NLTK, BERT, Word and Doc2Vec
+-  Data Visualisation : Matplotlib, Seaborn, Plotly, Altair
+-  Business intelligence : Metabase, Google Data Studio, Power BI
+-  Monitoring experiments : MLFlow
+-  Deployment : FastAPI, Streamlit, Flask, Gradio, Docker
+-  Big Data : PySpark
 
 ### 📖 What am currently learning
 - Full Stack Web Development  * Progress 31% *
