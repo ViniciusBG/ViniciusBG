@@ -1,8 +1,5 @@
 <h2 align="center">Hello there! My name is Vinicius! 👋🤓</h2>
-<p align="center">I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
-I'm also currently doing my Bsc in IT while working on my company and other projects.
-I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets and Automation.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked self made dreams or on my laptop gaming.</p>
+<p align="center">I'm a Data Scientist with some data engineering skills who is fascinated by creating end-to-end projects, explainable machine learning models and predicting human behaviour. I really love all the steps from the Data Science pipeline: collecting data, exploring, modelling, dockerizing and mantaining the model quality along the time. I believe the term full stack data scientist is a good description for what I do!</p>
 
 <em><p align="center"><a href="https://stephenajulu.com">My Personal Website and Portfolio Built with Jekyll, Hosted on Github, DNS Cloudflare</a></p></em>
 <p>
