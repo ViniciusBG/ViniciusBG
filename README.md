@@ -27,7 +27,7 @@
   - Kedro, Airflow, Kubeflow
   
 ### ⏭️Next Steps?
-- Grhaps - * networks and databases *
+- Grhaps - *networks and databases*
 
 ### 📫 Where to find me
 - [viniciusbastosgomes@gmail.com](mailto:viniciusbastosgomes@gmail.com) 🐤
