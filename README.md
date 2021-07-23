@@ -7,12 +7,7 @@
 
 ### 💻 What am currently working on
 - [GreeetinCard](https://greeetincard.crd.co)  🚀
-- Tech6  🚀 *coming soon*
-- [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
-- BioEmergency & Biomme  🚀 *coming soon*
-- Quevant  🚀 *coming very soon* 🚀
-- TechSavant  🚀 *coming very soon* 🚀
-- Lofied  🚀 *coming soon*
+- 
 
 ### 📖 What am currently learning
 - Full Stack Web Development  * Progress 31% *
@@ -20,8 +15,8 @@
 - Cybersecurity and Ethical Hacking  * Progress 72% *
 
 ### 📫 Where to find me
-- [Mail](mailto:viniciusbastosgomes@gmail.com) 🐤
+- [viniciusbastosgomes@gmail.com](mailto:viniciusbastosgomes@gmail.com) 🐤
 - [LinkedIn](https://www.linkedin.com/in/viniciusbastosgomes/) 👨💼
 
 
-<h4 align="center">From <a href="https://github.com/viniciusbg/viniciusbg"> Stephen Ajulu's Github Profile Readme MD</a></h4>
+<h4 align="center">From <a href="https://github.com/viniciusbg/viniciusbg"> Vinicius Gomes' Github Profile Readme MD</a></h4>
