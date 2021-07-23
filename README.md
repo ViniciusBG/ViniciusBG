@@ -5,6 +5,8 @@
 ### 💼 Where am currently working at/as
 - [Ambev Tech - Data Scientist](https://ambevtech.com.br/) 💼 
 
+
+
 ### 💻 Most familiar tools, languages and frameworks
 - Languages : Python, SQL
 -  WebScrapping: Selenium, BeatifulSoup
@@ -18,12 +20,14 @@
 -  Deployment : FastAPI, Streamlit, Flask, Gradio, Docker
 -  Big Data : PySpark
 
-### :eyes:
+### :eyes:What am I learning now?
 
-### 📖 What am currently learning
-- Full Stack Web Development  * Progress 31% *
-- AI & Machine Learning  * Progress 13% *
-- Cybersecurity and Ethical Hacking  * Progress 72% *
+- Causal Inference
+- Tools for developing reproducible and scalable machine learning pipelines, such as:
+  - Kedro, Airflow, Kubeflow
+  
+### ⏭️Next Steps?
+- Grhaps - * networks and databases *
 
 ### 📫 Where to find me
 - [viniciusbastosgomes@gmail.com](mailto:viniciusbastosgomes@gmail.com) 🐤
