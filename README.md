@@ -20,7 +20,7 @@
 - Cybersecurity and Ethical Hacking  * Progress 72% *
 
 ### 📫 Where to find me
-- [Mail](viniciusbastosgomes@gmail.com) 🐤
+- [Mail](mailto:viniciusbastosgomes@gmail.com) 🐤
 - [LinkedIn](https://www.linkedin.com/in/viniciusbastosgomes/) 👨💼
 
 
