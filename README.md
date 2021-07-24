@@ -9,17 +9,17 @@ I'm a Data Scientist with some data engineering skills who is fascinated by crea
 
 
 ### 💻 Most familiar tools, languages and frameworks
-- Languages : Python, SQL
+- Languages: Python, SQL
 -  WebScrapping: Selenium, BeatifulSoup
--  Data Processing : Pandas, Numpy, Scipy, NLTK
--  Modelling/Machine Learning : Scikit-learn, XGBoost, Statsmodels
+-  Data Processing: Pandas, Numpy, Scipy, NLTK
+-  Modelling/Machine Learning: Scikit-learn, XGBoost, Statsmodels
 -  Deep learning: Keras, Tensorflow
 -  NLP: NLTK, BERT, Word and Doc2Vec
--  Data Visualisation : Matplotlib, Seaborn, Plotly, Altair
--  Business intelligence : Metabase, Google Data Studio, Power BI
--  Monitoring experiments : MLFlow
--  Deployment : FastAPI, Streamlit, Flask, Gradio, Docker
--  Big Data : PySpark
+-  Data Visualisation: Matplotlib, Seaborn, Plotly, Altair
+-  Business intelligence: Metabase, Google Data Studio, Power BI
+-  Monitoring experiments: MLFlow
+-  Deployment: FastAPI, Streamlit, Flask, Gradio, Docker
+-  Big Data: PySpark
 
 ### :eyes:What am I learning now?
 
