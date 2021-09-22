@@ -1,6 +1,8 @@
 <h2 align="center">Hello there! I'm Vinicius! 👋🤓</h2>
 
-I'm a Data Scientist with some data engineering skills who is fascinated by creating end-to-end projects, explainable machine learning models and predicting human behaviour. I really love all the steps from the Data Science pipeline: collecting data, exploring, modelling, dockerizing and mantaining the model quality along the time. I believe the term full stack data scientist is a good description for what I do!</p>
+I'm a "Full Stack" Data Scientist who is fascinated by creating end-to-end projects (deploying), explainable machine learning models and predicting human behaviour.  
+I really enjoy all the steps from the Data Science pipeline: collecting data, exploring, modelling, dockerizing and mantaining the model quality along the time. I believe the term full stack data scientist is a good description for what I do! 
+
 
 
 ### 💼 Where I am currently working at/as
