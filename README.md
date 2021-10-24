@@ -19,14 +19,14 @@ I'm a "Full Stack" Data Scientist who is fascinated by creating end-to-end proje
 -  Data Visualisation: Matplotlib, Seaborn, Plotly, Altair
 -  Business intelligence: Metabase, Google Data Studio, Power BI
 -  Monitoring experiments: MLFlow
+-  Reproducible ML: Kedro, Airflow, Kubeflow
 -  Deployment: FastAPI, Streamlit, Flask, Gradio, Docker
 -  Big Data: PySpark
 
 ### :eyes:What am I learning now?
 
 - Causal Inference
-- Tools for developing reproducible and scalable machine learning pipelines, such as:
-  - Kedro, Airflow, Kubeflow
+
   
 ### ⏭️Next Steps?
 - Grhaps - *networks and databases*
