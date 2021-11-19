@@ -2,15 +2,15 @@
 
 I'm a "Full Stack" Data Scientist who is fascinated by creating end-to-end projects (deploying), explainable machine learning models and predicting human behaviour. I really enjoy all the steps from the Data Science pipeline: collecting data, exploring, modelling, dockerizing and mantaining the model quality along the time. I believe the term full stack data scientist is a good description for what I do! 
 
-You'll probably find many unfinished work here. Unfortunately, time is being short for dealing and with end-to-end side projects, but I'm doing my best to improve it.
+You'll probably find many unfinished work here. Unfortunately, time is being short for dealing and with end-to-end side projects, but I'm doing my best to improve it and turn this profile into a portifolio.
 
 ### 💼 Where I am currently working at/as
 - [Ambev Tech - Data Scientist](https://ambevtech.com.br/) 💼 
 
 ### 💻 What am I currenty confortable with?
 - Languages: Python, SQL
-- Reproducible ML: Kedro, Airflow, MLFlow
-- Unix, Docker/Docker Compose (studying kuberenets)
+- Reproducible ML: Airflow, Kedro, MLFlow
+- Unix, Docker/Docker Compose
 - Business intelligence: Metabase, Google Data Studio, Power BI
 - Versioning: Git, Github
 - CI/CD - Github Actions and Azure Devops
