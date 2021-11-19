@@ -10,10 +10,11 @@ You'll probably find many unfinished work here. Unfortunately, time is being sho
 ### 💻 What am I currenty confortable with?
 - Languages: Python, SQL
 - Reproducible ML: Airflow, Kedro, MLFlow
-- Unix, Docker/Docker Compose
+- Containers: Docker/Docker Compose
+- Unix
 - Business intelligence: Metabase, Google Data Studio, Power BI
 - Versioning: Git, Github
-- CI/CD - Github Actions and Azure Devops
+- CI/CD: Github Actions and Azure Devops
 - Big Data: PySpark
 - IaC: Terraform
 - Product Management: Kanban, Scrum
