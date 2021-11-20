@@ -16,6 +16,7 @@ You'll probably find many unfinished work here. Unfortunately, time is being sho
 - Versioning: Git, Github
 - CI/CD: Github Actions and Azure Devops
 - Big Data: PySpark
+- Clouds: AWS, GCP
 - IaC: Terraform
 - Product Management: Kanban, Scrum
 - Within Pythonic World:
