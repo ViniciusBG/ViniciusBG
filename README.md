@@ -25,7 +25,7 @@ You'll probably find many unfinished work here. Unfortunately, time is being sho
   - Modelling/Machine Learning: Scikit-learn, XGBoost, Statsmodels
   - Deep learning: Keras, Tensorflow
   - NLP: NLTK, BERT, Word and Doc2Vec
-  - Data Visualisation: Matplotlib, Seaborn, Plotly
+  - Data Visualization: Matplotlib, Seaborn, Plotly
   - Deployment: FastAPI, Streamlit, Gradio
 
 ### :eyes:What am I learning now?
