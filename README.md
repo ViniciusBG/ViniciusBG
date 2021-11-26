@@ -11,7 +11,7 @@ You'll probably find many unfinished work here. Unfortunately, time is being sho
 ### 💼 Where I am currently working at/as
 - [Ambev Tech - Data Scientist](https://ambevtech.com.br/) 💼 
 
-### 💻 What am I currenty confortable with?
+### 💻 What am I currenty comfortable with?
 - Languages: Python, SQL
 - Reproducible ML: Airflow, Kedro, MLFlow
 - Containers: Docker/Docker Compose
