@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! I'm Vinicius! 👋🤓</h2>
 
-I'm a "Full Stack" Data Scientist who is fascinated by creating end-to-end projects (deploying), explainable machine learning models and predicting human behaviour. I really enjoy all the steps from the Data Science pipeline: collecting data, exploring, modelling, dockerizing and mantaining the model quality along the time. I believe the term full stack data scientist is a good description for what I do! 
+I'm a Data Scientist (looking forward to a fully Machine Learning Engineering approach) whose experience goes from automating data extraction pipelines to deploying machine learning models and pipelines on cloud services.
 
 Want to know how I got from Music to Data Science? [Click here](https://medium.com/@vinibgomes/from-music-phd-to-data-science-f940c590f9f2)
 
