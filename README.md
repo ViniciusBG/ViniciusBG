@@ -1,11 +1,6 @@
 <h2 align="center">Hello there! I'm Vinicius! 👋🤓</h2>
 
-I'm a Data Scientist (looking forward to a fully Machine Learning Engineering approach) whose experience goes from automating data extraction pipelines to deploying machine learning models and pipelines on cloud services.
-
-Want to know how I got from Music to Data Science? [Click here](https://medium.com/@vinibgomes/from-music-phd-to-data-science-f940c590f9f2)
-
-You'll probably find many unfinished work here. Unfortunately, time is being short for dealing and with end-to-end side projects, but I'm doing my best to improve it and turn this profile into a portifolio.
-
+I'm a Data Scientist whose experience goes from automating data extraction pipelines to deploying machine learning models and pipelines on cloud services.
 
 
 ### 💼 Where I am currently working at/as
@@ -32,13 +27,6 @@ You'll probably find many unfinished work here. Unfortunately, time is being sho
   - Data Visualization: Matplotlib, Seaborn, Plotly
   - Deployment: FastAPI, Streamlit, Gradio
 
-### :eyes:What am I learning now?
-
-- Kuberenetes 
-- Causal Inference
-
-### ⏭️Next Steps?
-- Grhaps - *networks and databases*
 
 ### 📫 Where to find me
 - [viniciusbastosgomes@gmail.com](mailto:viniciusbastosgomes@gmail.com) 🐤
